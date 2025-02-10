@@ -35,6 +35,7 @@ This project is licensed under the MIT License.
 
 👩‍💻 Harshita Verma
 🔗 GitHub – https://github.com/Harshitaaverma
-💼 LinkedIn – [[Your LinkedIn Profile]](https://www.linkedin.com/in/harshita-verma-57a5b7229)
+
+💼 LinkedIn – [[Click here]](https://www.linkedin.com/in/harshita-verma-57a5b7229)
 
 🚀 Happy Coding! 🍕🤖
