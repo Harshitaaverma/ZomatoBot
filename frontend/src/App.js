@@ -23,7 +23,7 @@ const Chatbot = () => {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.header}>🍽️ZomatoBot🤖</h1>
+      <h1 style={styles.header}>🍽️Smart Food Bot🤖</h1>
 
       <div style={styles.chatBox}>
         {messages.map((msg, index) => (
