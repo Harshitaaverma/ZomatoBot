@@ -1,4 +1,4 @@
-# ZomatoBot
+# SmartFood
 A smart chatbot that helps users find restaurants, browse menus, and place food orders using Material UI, Express.js, Node.js, MongoDB, and Gemini API.
 
 📖 About the Project
